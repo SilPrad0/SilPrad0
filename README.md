@@ -1,4 +1,5 @@
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐
+
 ### Hello, soy Silvina Prado 👋
 
 Developer con experiencia en una variedad de tecnologías, incluyendo:
@@ -11,11 +12,13 @@ Developer con experiencia en una variedad de tecnologías, incluyendo:
 - SQL
 - MongoDB
 - Node.js
-  
-🌐 Idiomas 🌐
+
+🌐&nbsp;Idiomas&nbsp;🌐
 Native Spanish, Advanced English, Basic German
 🇦🇷
 
-🔗 [LinkedIn](linkedin.com/in/silvina-prado-a87155226/)
+🔗&nbsp;[LinkedIn](linkedin.com/in/silvina-prado-a87155226/)
+
 ¡Gracias por visitar mi perfil! 😊
+
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐
