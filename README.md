@@ -12,6 +12,7 @@ Developer con experiencia en una variedad de tecnologías, incluyendo:
 - SQL
 - MongoDB
 - Node.js
+- Springboot
 
 🌐 **Idiomas** 🌐
 ###
