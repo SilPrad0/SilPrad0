@@ -20,7 +20,8 @@ Native Spanish, Advanced English, Basic German
 ###
 🇦🇷
 
-🔗&nbsp;[LinkedIn](www.linkedin.com/in/silvina-prado-a87155226)
+🔗&nbsp;[LinkedIn](https://www.linkedin.com/in/silvina-prado-a87155226/)
+
 
 ¡Gracias por visitar mi perfil! 😊
 
