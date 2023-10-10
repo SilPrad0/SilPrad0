@@ -13,8 +13,10 @@ Developer con experiencia en una variedad de tecnologías, incluyendo:
 - MongoDB
 - Node.js
 
-🌐&nbsp;Idiomas&nbsp;🌐
+🌐 **Idiomas** 🌐
+###
 Native Spanish, Advanced English, Basic German
+###
 🇦🇷
 
 🔗&nbsp;[LinkedIn](linkedin.com/in/silvina-prado-a87155226/)
