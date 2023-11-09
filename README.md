@@ -25,4 +25,6 @@ Native Spanish, Advanced English, Basic German
 
 ¡Gracias por visitar mi perfil! 😊
 
+- 👩‍💻 Actualmente codeando el front en: [E-commerce-Grupo-Interdata](https://github.com/CodeSystem2022/E-commerce-Grupo-Interdata) 
+
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐
