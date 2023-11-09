@@ -14,6 +14,9 @@ Developer con experiencia en una variedad de tecnologías, incluyendo:
 - Node.js
 - Springboot
 
+- 👩‍💻 Actualmente codeando el front en: [E-commerce-Grupo-Interdata](https://github.com/CodeSystem2022/E-commerce-Grupo-Interdata) 💻
+
+  
 🌐 **Idiomas** 🌐
 ###
 Native Spanish, Advanced English, Basic German
@@ -25,6 +28,5 @@ Native Spanish, Advanced English, Basic German
 
 ¡Gracias por visitar mi perfil! 😊
 
-- 👩‍💻 Actualmente codeando el front en: [E-commerce-Grupo-Interdata](https://github.com/CodeSystem2022/E-commerce-Grupo-Interdata) 
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐
