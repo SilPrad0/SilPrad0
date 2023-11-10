@@ -31,6 +31,8 @@ Native Spanish, Advanced English, Basic German
 - ⚛️ Investigar sobre el mundo de la computación cuántica.
 - 🌐 Contribuir a proyectos que desafíen y expandan mi comprensión tecnológica.
 
+## Contacto 
+📩silprado96@gmail.com
 🔗&nbsp;[LinkedIn](https://www.linkedin.com/in/silvina-prado-a87155226/)
 
 
