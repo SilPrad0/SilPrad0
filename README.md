@@ -1,8 +1,7 @@
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
-### Hello, soy Silvina Prado 👋
-
-Developer, en constante aprendizaje y entusiasta de la tecnología 👩‍💻
+###  👋👩 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71D85&random=false&width=435&lines=Hi+there!+I'm+Silvina+Prado+)](https://git.io/typing-svg)
+# Developer, en constante aprendizaje y entusiasta de la tecnología 👩‍💻
 
 # 🚀 TECNOLOGÍAS 🚀
 
