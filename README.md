@@ -2,7 +2,9 @@
 
 ### Hello, soy Silvina Prado 👋
 
-Developer con experiencia en una variedad de tecnologías, incluyendo:
+Developer, en constante aprendizaje y entusiasta de la tecnología 👩‍💻
+
+# 🚀 TECNOLOGÍAS 🚀
 
 - Java
 - Python
@@ -17,11 +19,17 @@ Developer con experiencia en una variedad de tecnologías, incluyendo:
 - 👩‍💻 Actualmente codeando el front en: [E-commerce-Grupo-Interdata](https://github.com/CodeSystem2022/E-commerce-Grupo-Interdata) 💻
 
   
-🌐 **Idiomas** 🌐
+# 🌐 Idiomas 🌐
 ###
 Native Spanish, Advanced English, Basic German
 ###
-🇦🇷
+
+### Mis Intereses 💻🤖🎨🎸
+
+- 🚀 Explorar los avances más recientes en tecnología.
+- 🤖 Aprender conceptos innovadores en inteligencia artificial.
+- ⚛️ Investigar sobre el mundo de la computación cuántica.
+- 🌐 Contribuir a proyectos que desafíen y expandan mi comprensión tecnológica.
 
 🔗&nbsp;[LinkedIn](https://www.linkedin.com/in/silvina-prado-a87155226/)
 
