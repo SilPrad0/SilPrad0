@@ -27,7 +27,7 @@ Native Spanish, Advanced English, Basic German
 
 - 🚀 Explorar los avances más recientes en tecnología.
 - 🤖 Aprender conceptos innovadores en inteligencia artificial.
-- ⚛️ Investigar sobre el mundo de la computación cuántica.
+- &#x03A8; Investigar sobre el mundo de la computación cuántica.
 - 🌐 Contribuir a proyectos que desafíen y expandan mi comprensión tecnológica.
 
 ## Contacto 
