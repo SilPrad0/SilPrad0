@@ -1,23 +1,12 @@
 
 
 ###  👋👩 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&color=F776C0&background=FFD8C900&random=false&width=435&lines=Hi+there!+I'm+Silvina+Prado+)](https://git.io/typing-svg)
-### Developer, en constante aprendizaje y entusiasta de la tecnología 👩‍💻
+### Developer, data analyst 👩‍💻📊
 
-# 🚀 TECNOLOGÍAS 🚀
+# 🚀 Skills 🚀
+[![My Skills](https://skillicons.dev/icons?i=py,r,java,js,css,html,mongodb,mysql,postgres,aws,)](https://skillicons.dev)
 
-- Java
-- Python
-- JavaScript
-- CSS
-- HTML
-- SQL
-- MongoDB
-- Node.js
-- Springboot
 
-- 👩‍💻 Actualmente codeando el front en: [E-commerce-Grupo-Interdata](https://github.com/CodeSystem2022/E-commerce-Grupo-Interdata) 💻
-
-  
 # 🌐 Idiomas 🌐
 ###
 Native Spanish, Advanced English, Basic German
