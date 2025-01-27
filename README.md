@@ -4,7 +4,7 @@
 ### Developer, data analyst 👩‍💻📊
 
 # 🚀 Skills 🚀
-[![My Skills](https://skillicons.dev/icons?i=py,r,java,js,css,html,mongodb,mysql,postgres,aws,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,java,js,css,html,mongodb,mysql,postgres,aws,googlecloud)](https://skillicons.dev)
 
 
 # 🌐 Idiomas 🌐
@@ -15,7 +15,7 @@ Native Spanish, Advanced English, Basic German
 ### Mis Intereses 💻🤖🎨🎸
 
 - 🚀 Explorar los avances más recientes en tecnología.
-- 🤖 Aprender conceptos innovadores en inteligencia artificial.
+- 🤖 Ganar experiencia en Machine Learning.
 - |Ψ⟩ Investigar sobre el mundo de la computación cuántica.
 - 🌐 Contribuir a proyectos que desafíen y expandan mi comprensión tecnológica.
 
