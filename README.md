@@ -14,8 +14,8 @@ Native Spanish, Advanced English, Basic German
 
 ### Mis Intereses 💻🤖🎨🎸
 
-- 🚀 Explorar los avances más recientes en tecnología.
-- 🤖 Ganar experiencia en Machine Learning.
+- 🚀 Data Science.
+- 🤖 Automatizar cositas Machine Learning.
 - |Ψ⟩ Investigar sobre el mundo de la computación cuántica.
 - 🌐 Contribuir a proyectos que desafíen y expandan mi comprensión tecnológica.
 
@@ -26,6 +26,6 @@ Native Spanish, Advanced English, Basic German
 
 ¡Gracias por visitar mi perfil! 😊
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSilPrad0&count_bg=%23F175AC&title_bg=%2374FFBE&icon=&icon_color=%23F75252&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSilPrad0&label=visits&icon=github&color=%23ea868f)
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
