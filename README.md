@@ -15,7 +15,7 @@ Native Spanish, Advanced English, Basic German
 ### Mis Intereses 💻🤖🎨🎸
 
 - 🚀 Data Science.
-- 🤖 Automatizar cositas Machine Learning.
+- 🤖 Automatizar cositas con Machine Learning.
 - |Ψ⟩ Investigar sobre el mundo de la computación cuántica.
 - 🌐 Contribuir a proyectos que desafíen y expandan mi comprensión tecnológica.
 
