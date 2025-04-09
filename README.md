@@ -23,6 +23,7 @@ Native Spanish, Advanced English, Basic German
 📩silprado96@gmail.com
 🔗&nbsp;[LinkedIn](https://www.linkedin.com/in/silvina-prado-a87155226/)
 
+[a little web portfolio](https://silvinaprado.netlify.app/) 🌠
 
 ¡Gracias por visitar mi perfil! 😊
 
